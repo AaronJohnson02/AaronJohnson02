@@ -5,9 +5,9 @@
 
 ## Hey, You can call me Aaron 👋
 
-- 🔭 I’m currently persuing a Bachelors in Computer Science
+- 🔭 I’m currently persuing a Bachelors in Computer Science at Christ (Deemed To Be) University.
 - 🌱 I’m currently learning Python and R.
- 
+- 🚀 I'm interested in Machine Learning and IoT
 ___
 
 ### Contact Me 📱
@@ -23,7 +23,7 @@ ___
 
 ___
 
-![](https://github-readme-stats.vercel.app/api?username=AaronJohnson02&show_icons=true&theme=swift)
+![](https://github-readme-stats.vercel.app/api?username=AaronJohnson02&show_icons=true&theme=vue-dark)
 
 <br />
 <br />
