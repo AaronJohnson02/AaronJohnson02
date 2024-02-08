@@ -12,7 +12,7 @@ ___
 
 ### Contact Me 📱
 
-[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/aaronjohnson18/)
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/aaronjohnson02/)
 [<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white' alt='Dev.to' height='30'>](https://dev.to/aaronj)
 
 
