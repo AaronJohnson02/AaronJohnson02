@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently persuing a Bachelors in Computer Science at Christ (Deemed To Be) University.
 - 🌱 I’m currently learning Python.
-- 🚀 I'm interested in Machine Learning and IoT
+- 🚀 I'm interested in Machine Learning and Front-End Development
 ___
 
 ### Contact Me 📱
