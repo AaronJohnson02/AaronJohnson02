@@ -5,8 +5,7 @@
 
 ## Hey, You can call me Aaron 👋
 
-- 🔭 I’m currently persuing a Bachelors in Computer Science at Christ (Deemed To Be) University.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and C++ .
 - 🚀 I'm interested in Machine Learning and Front-End Development
 ___
 
